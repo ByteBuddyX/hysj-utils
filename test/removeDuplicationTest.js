@@ -1,4 +1,4 @@
-const hyUtils = require('../dist/hy_utils.min.js')
+const hyUtils = require('../dist/hyUtils.min.js')
 const arr = [1, 2, '3', 1, '2', '3']
 console.log(hyUtils.basicsRemoveDuplication(arr))
 const newArr = [

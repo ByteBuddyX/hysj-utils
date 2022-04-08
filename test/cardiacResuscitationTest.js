@@ -1,4 +1,4 @@
-const { cardiacResuscitation } = require('../dist/hy_utils.min.js')
+const { cardiacResuscitation } = require('../dist/hyUtils.min.js')
 // 模拟请求失败场景
 const randomPromise = () => {
   return new Promise((resolve, reject) => {
