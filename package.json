@@ -1,6 +1,6 @@
 {
   "name": "hysj-utils",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "dist/hysjUtils.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,7 +10,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git@gitee.com:huyan-sijun/promise-catch.git"
+    "url": "git@gitee.com:huyan-sijun/hysj-utils.git"
   },
   "keywords": [
     "异常处理",

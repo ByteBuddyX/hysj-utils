@@ -11,4 +11,11 @@ yarn.lock
 package-lock.json
 
 # build
-# /dist
+/dist
+
+# publish
+# /src
+# .babelrc
+# .eslintrc.js
+# rollup.config.js
+# /test
