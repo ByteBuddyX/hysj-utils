@@ -1,4 +1,3 @@
-exports.wait = (time) => new Promise(resove => {
-    setTimeout(() => resove(), time)
+export const wait = (time) => new Promise(resolve => {
+  setTimeout(() => resolve(), time)
 })
-
