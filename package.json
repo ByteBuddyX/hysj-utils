@@ -1,5 +1,5 @@
 {
-  "name": "promise-catch",
+  "name": "hy-utils",
   "version": "1.0.0",
   "main": "main.js",
   "scripts": {
@@ -14,7 +14,9 @@
   },
   "keywords": [
     "异常处理",
-    "心脏复苏"
+    "心脏复苏",
+    "去重",
+    "数组对象去重"
   ],
   "devDependencies": {
     "babel-plugin-external-helpers": "^6.22.0",

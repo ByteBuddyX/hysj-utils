@@ -4,9 +4,9 @@ import { terser } from 'rollup-plugin-terser'
 export default {
   input: 'src/main.js',
   output: {
-    file: './dist/hy_utils.min.js',
+    file: './dist/hyUtils.min.js',
     format: 'umd',
-    name: 'hy_utils',
+    name: 'hy-utils',
     compact: true
   },
   plugins: [
