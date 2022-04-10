@@ -1,4 +1,4 @@
-## hy-until
+## hy-utils
 旨在提供一系列日常常用工具函数，为大家工作带来便利，后续仓库会经常进行维护
 
 ### cardiacResuscitation
