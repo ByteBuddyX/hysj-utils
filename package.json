@@ -27,6 +27,7 @@
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^5.2.0",
+    "rollup": "^2.70.1",
     "rollup-plugin-babel": "^3.0.7",
     "rollup-plugin-terser": "^7.0.2"
   }
