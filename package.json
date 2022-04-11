@@ -14,6 +14,10 @@
     "url": "git@gitee.com:huyan-sijun/hysj-utils.git"
   },
   "keywords": [
+    "utils",
+    "工具函数",
+    "防抖",
+    "节流",
     "异常处理",
     "心脏复苏",
     "去重",
