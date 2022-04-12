@@ -38,6 +38,15 @@ throttle节流函数 对于高频触发的事件使用节流可以做到在事�
 | `func`        | 回调函数              |
 | `delay`         | 事件执行结束后多久触发 默认200ms  |
 
+## 数组排序
+### basicsSort
+basicsSort基本数组排序
+| 参数          | 描述                            |
+| ------------- | ---------------------------    |
+| `array`        | 排序数组             |
+| `type`         | 排序类型 'number', 'date'或不传 |
+| `order`         | 排序方式 默认为升序 'desc' 为降序 |
+
 ## 异步错误重试
 ### cardiacResuscitation 
 cardiacResuscitation是一个异步重试函数 提供错误重新执行机制
